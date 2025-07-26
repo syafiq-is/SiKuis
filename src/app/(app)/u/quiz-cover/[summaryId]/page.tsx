@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import MainLayout from '@/components/MainLayout';
 import { createClientServer } from '@/lib/supabase/server';
 import { notFound, redirect } from 'next/navigation';
